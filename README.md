@@ -1,4 +1,5 @@
-# CodeRefinery recipe book
+# CodeRefinery recipe book 
+#testing merge conflict from terminal
 
 We use this repository to teach Git and also to collect
 some nice recipes.
