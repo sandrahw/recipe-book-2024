@@ -16,3 +16,4 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+- [cakes](cakes)
